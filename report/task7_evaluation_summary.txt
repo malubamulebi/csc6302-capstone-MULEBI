@@ -1,0 +1,13 @@
+CSC6302 Practical 7 - Model Evaluation
+Test images: 135
+Accuracy: 1.0000 (100.00%)
+
+              precision    recall  f1-score   support
+
+   buildings     1.0000    1.0000    1.0000        45
+      forest     1.0000    1.0000    1.0000        45
+         sea     1.0000    1.0000    1.0000        45
+
+    accuracy                         1.0000       135
+   macro avg     1.0000    1.0000    1.0000       135
+weighted avg     1.0000    1.0000    1.0000       135
